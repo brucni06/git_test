@@ -1,3 +1,5 @@
 Hello world! My awesome new .txt file - yay
 
 More text for testing git ;)
+Resume after a long time
+
